@@ -1,2 +1,2 @@
 #!/bin/bash
-$ echo $((16#$DECIMAL))Z
+$ echo $((16#$DECIMAL))
